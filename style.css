@@ -1,0 +1,66 @@
+.box22{
+
+background-color:white;
+width: 330px;
+height: 60px;
+border-radius: 50px;
+display: flex;
+align-items: center;
+
+justify-content: space-between;
+padding: 0px 25px;
+
+}
+
+.y22{
+    
+    
+    width: 210px;
+
+border: none;
+outline: none;
+background-color: white;
+font-size: 20px;
+
+height:50px ;
+
+}
+
+
+.t22{
+
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+background-image: url(https://e0.pxfuel.com/wallpapers/612/409/desktop-wallpaper-color-smoke-png-background-color-smoke-background-png-smoke-colors.jpg);
+
+background-repeat: no-repeat;
+background-position: center;
+background-size: 2000px;
+}
+
+
+
+
+.h22{
+border-radius: 20px;
+border: none;
+background: none;
+outline: none;
+align-items: left;
+padding: 0px 40px;
+
+}
+
+
+
+.r44{
+
+border: 1px solid black;
+
+background-color: rgb(8, 222, 237);
+border-radius: 25px;
+
+}
+
